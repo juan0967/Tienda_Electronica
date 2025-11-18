@@ -18,6 +18,8 @@ public class Principal {
     public static void main(String[] args) {
         // TODO code application logic here
         new VentanaPrincipal().setVisible(true);
+        Db dbc= new Db(); 
+        dbc.conectar();
     }
     
 }
