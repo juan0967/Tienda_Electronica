@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author Tyron
+ * @author Soporte
  */
 public class Equipo implements Serializable {
     String nombre;

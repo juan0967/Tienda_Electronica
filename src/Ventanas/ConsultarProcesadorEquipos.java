@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Tyron
+ * @author Soporte
  */
 public class ConsultarProcesadorEquipos extends javax.swing.JFrame {
 

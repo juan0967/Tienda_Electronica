@@ -6,7 +6,7 @@ package Ventanas;
 
 /**
  *
- * @author Tyron
+ * @author Soporte
  */
 public class VentanaPrincipal extends javax.swing.JFrame {
 

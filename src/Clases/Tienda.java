@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Tyron
+ * @author Soporte
  */
 public class Tienda implements Serializable {
     private String nombre;

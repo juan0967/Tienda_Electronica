@@ -17,7 +17,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Tyron
+ * @author Soporte
  */
 public class ConsultarMarcaEquipos extends javax.swing.JFrame {
 

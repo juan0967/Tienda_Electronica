@@ -19,7 +19,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Tyron
+ * @author Soporte
  */
 public class RegistroProductos extends javax.swing.JFrame {
 
